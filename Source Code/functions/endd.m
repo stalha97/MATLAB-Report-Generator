@@ -5,8 +5,8 @@ function endd()
     append(rptt, htmll);
     close(rptt);
         
+    close_system
     clc
     clear all
     close all
-    close_system
 end
