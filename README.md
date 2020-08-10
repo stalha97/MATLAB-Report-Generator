@@ -13,7 +13,7 @@
   endd()
   ```
   
-  This is the sine_wave.m file we are including in our report
+  This is the <b>sine_wave.m</b> file we are including in our report
   
   ```
   x = 0:pi/100:2*pi;
@@ -21,6 +21,6 @@
   plot(x,y)
   ```
   
-  And this is the result stored in folder "Matlab Reports Here" with filename "MyReport.docx"
+  And this is the result stored in folder <b>"Matlab Reports Here"</b> with filename of <b>"MyReport.docx"</b>
   
   <img src="./Readme%20Files/sinewave%20example.PNG" width="100%"></img>
