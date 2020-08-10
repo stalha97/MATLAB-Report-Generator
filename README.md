@@ -1,6 +1,7 @@
 # MATLAB Report Generator
-  Making reports for Matlab tasks is a tedious task. This project intends to ease that process.
-  Here is a sample tutorial to show you how easy it is. Add this file to the source code folder and run it through Matlab.
+  Making reports for Matlab tasks is a tedious task.<br>
+  Here is a sample tutorial to show you how easy it is with this project.<br>
+  Add this file to the source code folder and run it through Matlab.
   
   ``` 
   startt("MyReport")
