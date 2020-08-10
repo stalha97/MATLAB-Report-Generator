@@ -1,8 +1,15 @@
 # MATLAB Report Generator
   Making reports for Matlab tasks is a tedious task.<br>
   Here is a sample tutorial to show you how easy it is with this project.<br>
-  Add this file to the source code folder and run it through Matlab.
   
+  We wrote some code <b>sine_wave.m</b> and now we want to generate a simple report for it
+  ```
+  x = 0:pi/100:2*pi;
+  y = sin(x);
+  plot(x,y)
+  ```
+  
+  Add this file to the <b>"Source Code"</b> folder and run it in Matlab. <b>(You can give any name to file)</b>
   ``` 
   startt("MyReport")
 
@@ -14,14 +21,6 @@
   endd()
   ```
   
-  This is the <b>sine_wave.m</b> file we are including in our report
-  
-  ```
-  x = 0:pi/100:2*pi;
-  y = sin(x);
-  plot(x,y)
-  ```
-  
-  And this is the result stored in folder <b>"Matlab Reports Here"</b> with filename of <b>"MyReport.docx"</b>
+  That's it. The report will be stored in the folder <b>"Matlab Reports Here"</b> with filename of <b>"MyReport.docx"</b>
   
   <img src="./Readme%20Files/sinewave%20example.PNG" width="100%"></img>
