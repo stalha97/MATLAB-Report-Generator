@@ -9,7 +9,7 @@
   plot(x,y)
   ```
   
-  Add this file to the <b>"Source Code"</b> folder and run it in Matlab. <b>(You can give any name to file)</b>
+  <br>Add this file to the <b>"Source Code"</b> folder and run it in Matlab. <b>(You can give any name to file)</b>
   ``` 
   startt("MyReport")
 
@@ -21,6 +21,6 @@
   endd()
   ```
   
-  That's it. The report will be stored in the folder <b>"Matlab Reports Here"</b> with filename of <b>"MyReport.docx"</b>
+  <br>That's it. The report will be stored in the folder <b>"Matlab Reports Here"</b> with filename of <b>"MyReport.docx"</b>
   
   <img src="./Readme%20Files/sinewave%20example.PNG" width="100%"></img>
